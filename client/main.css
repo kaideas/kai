@@ -49,6 +49,10 @@ a {
   color: white;
 }
 
+#top-period {
+      margin-left: -20px;
+    }
+
 .toptitle{
   margin-left: -10px;
 }
@@ -1035,7 +1039,7 @@ input {
     }
 
     h2 {
-      font-size: 1em;
+      font-size: 2em;
       transition: .5s;
     }
 
@@ -1049,6 +1053,10 @@ input {
       width: 100%;
       float: none;
       margin-left: 0;
+    }
+
+    #top-period {
+      margin-left: -10px;
     }
 
 }
